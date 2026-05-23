@@ -1,8 +1,8 @@
 TODO
 
-[ ] Create a website
-[ ] Get domain
-[ ] Host and publish website
-[ ] Get a business account validated on Google
-[ ] Work on Google ranking
-[ ] 
+- [ ] Create a website
+- [ ] Get domain
+- [ ] Host and publish website
+- [ ] Get a business account validated on Google
+- [ ] Work on Google ranking
+  - [ ] Research key words on area
